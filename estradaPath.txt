@@ -1,0 +1,17 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xA----------------------------AA-A-------x
+x-A--------------------------AAI---IA----x
+x---A--A---A----A---A--A--A-AAI----------x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx11A11x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx11111x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx111A1x
+x---------------------------------I------x
+x----------------A-AA-------I----------A-x
+x---A--A--A---A----IAA-A--A--A---A--A-A--x
+x2A222xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x22222xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xA2222xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xAA-A--A---A--A--A-AAI----A---A---A--AFFFx
+x----------I--------AA-A-------------FFFFx
+x------------------------------------FFFFx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

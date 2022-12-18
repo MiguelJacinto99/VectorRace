@@ -1,0 +1,15 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xAA-A--A---A----A-----A----A---A--A-AAAx
+x-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxAx
+x-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx-x
+x-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxAx
+x-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx-x
+x-xAA-A--A---A---AA---A---A--A-AAxxxxxAx
+x-xAxxxxxxxxxxxxxxxxxxxxxxxxxxxxAxxxxxAx
+x-xAxxxxxxxxxxxxxxxxxxxxxxxxxxxxAAxxxx-x
+x-xAxxxxxxxxxxxxxxxxxxxxxxxxxxxxxAAxxxAx
+x-xAxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxAAxxAx
+x-xAxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxAAxAx
+x-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxAAAAx
+x-IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII-AA1x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

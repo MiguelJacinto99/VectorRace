@@ -1,0 +1,17 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xP---------------------------------------x
+x------------------------------I---I-----x
+x-----------------------------I----------x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx11111x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx11111x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx11111x
+x---------------------------------I------x
+x---------------------------I------------x
+x------------------I---------------------x
+x22222xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x22222xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x22222xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x--------------------I---------------FFFFx
+x----------I-------------------------FFFFx
+x------------------------------------FFFFx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
